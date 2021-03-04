@@ -19,10 +19,10 @@
       <footer id="footer">
         <div class="container-flid bg-secondary">
           <div class="row d-flex">
-            <div class="col-lg-1 ml-3">
+            <div class="col-lg-3 ml-3 text-center">
               <img src="site/img/avigon_logo.png" alt="avigon" style="width: 100px;">
             </div>
-            <div class="col-lg-6 text-lg-left mt-4">
+            <div class="col-lg-4 text-lg-left mt-4 text-center">
               <div class="copyright" style="color:white">
                 &copy; Copyright <strong>Avigon</strong>. All Rights Reserved
               </div>
@@ -30,7 +30,7 @@
                 Designed by <a href="https://avigon.com/">Avigon</a>
               </div>
             </div>
-            <div class="col-lg-5 mt-4">
+            <div class="col-lg-5 my-4">
               <nav class="footer-links text-lg-right text-center">
                 <a href="#" class="fa fa-facebook btn btn-lg btn-outline-primary"></a>
                 <a href="#" class="fa fa-twitter btn btn-lg btn-outline-info"></a>
